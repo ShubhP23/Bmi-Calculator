@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'reuseable_card.dart';
-import 'bottom_button.dart';
-import 'constant.dart';
+import 'package:bmi_calculator/Components/reuseable_card.dart';
+import 'package:bmi_calculator/Components/bottom_button.dart';
+import 'package:bmi_calculator/Components/constant.dart';
 
 class ResultsPage extends StatelessWidget {
   ResultsPage(
