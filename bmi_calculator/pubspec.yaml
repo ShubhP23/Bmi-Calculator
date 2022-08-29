@@ -13,6 +13,16 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   font_awesome_flutter: ^9.1.0
+  sizer: ^2.0.15
+  flutter_native_splash: ^2.1.6
+  flutter_launcher_icons: ^0.10.0
+
+flutter_icons:
+  android: true
+  ios: "AppIcon"
+  image_path: "assets/logo.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/logo_foreground.png"
 
 dev_dependencies:
   flutter_test:
